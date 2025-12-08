@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> which flower is most fierce? Dandelion
 
 <!-- END -->
 
