@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
