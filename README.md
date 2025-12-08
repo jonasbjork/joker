@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
