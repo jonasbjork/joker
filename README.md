@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
