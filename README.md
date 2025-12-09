@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why do birds fly south for the winter? Because it's too far to walk.
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
