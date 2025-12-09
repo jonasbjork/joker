@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
