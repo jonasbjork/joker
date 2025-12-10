@@ -5,7 +5,9 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
