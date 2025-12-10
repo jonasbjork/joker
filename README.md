@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> So a duck walks into a pharmacy and says âGive me some chap-stickâ¦ and put it on my billâ
 
 <!-- END -->
 
