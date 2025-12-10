@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
+> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 <!-- END -->
 
