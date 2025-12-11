@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
