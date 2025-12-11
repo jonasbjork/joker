@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 <!-- END -->
 
