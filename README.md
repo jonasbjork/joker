@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
