@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
