@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Just watched a documentary about beaversâ¦ It was the best damn program Iâve ever seen.
+> Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, âNo, just leave it in the carton!â
 
 <!-- END -->
 
