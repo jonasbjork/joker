@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
