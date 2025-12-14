@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> Archaeology really is a career in ruins.
 
 <!-- END -->
 
