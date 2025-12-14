@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 <!-- END -->
 
