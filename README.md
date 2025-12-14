@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 <!-- END -->
 
