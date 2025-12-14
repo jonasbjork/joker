@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
