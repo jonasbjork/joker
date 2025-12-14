@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
