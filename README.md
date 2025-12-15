@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> What do you call a magician who has lost their magic? Ian.
 
 <!-- END -->
 
