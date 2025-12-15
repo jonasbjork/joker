@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dad that has fallen through the ice? A Popsicle.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
