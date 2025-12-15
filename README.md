@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Two muffins were sitting in an oven, and the first looks over to the second, and says, âman, itâs really hot in hereâ. The second looks over at the first with a surprised look, and answers, âWHOA, a talking muffin!â
+> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 <!-- END -->
 
