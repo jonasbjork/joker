@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the shy pebble wish for? That she was a little boulder.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
