@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Every night at 11:11, I make a wish that someone will come fix my broken clock.
+> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
 
 <!-- END -->
 
