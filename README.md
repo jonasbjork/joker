@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
+> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 <!-- END -->
 
