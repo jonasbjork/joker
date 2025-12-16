@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
