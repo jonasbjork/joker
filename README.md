@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
