@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 <!-- END -->
 
