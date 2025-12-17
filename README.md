@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
