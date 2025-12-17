@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 <!-- END -->
 
