@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
