@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> A steak pun is a rare medium well done.
 
 <!-- END -->
 
