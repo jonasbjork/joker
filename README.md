@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
