@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Can I watch the TV? Dad: Yes, but donât turn it on.
+> How do locomotives know where they're going? Lots of training
 
 <!-- END -->
 
