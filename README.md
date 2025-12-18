@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
