@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
