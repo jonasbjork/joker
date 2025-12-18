@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
