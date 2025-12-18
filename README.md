@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> How do the trees get on the internet? They log on.
 
 <!-- END -->
 
