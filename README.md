@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> What does a female snake use for support? A co-Bra!
 
 <!-- END -->
 
