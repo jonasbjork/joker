@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
