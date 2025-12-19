@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
