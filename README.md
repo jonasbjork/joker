@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 <!-- END -->
 
