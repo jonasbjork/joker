@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard the story about the magic tractor? It drove down the road and turned into a field.
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
