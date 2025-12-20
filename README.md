@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
 
 <!-- END -->
 
