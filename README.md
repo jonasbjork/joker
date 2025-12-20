@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
