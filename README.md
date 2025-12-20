@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why do crabs never give to charity? Because theyâre shellfish.
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
