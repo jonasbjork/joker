@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+> So a duck walks into a pharmacy and says âGive me some chap-stickâ¦ and put it on my billâ
 
 <!-- END -->
 
