@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
