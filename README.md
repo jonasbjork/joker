@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
