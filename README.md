@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> My son is studying to be a surgeon, I just hope he makes the cut.
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
