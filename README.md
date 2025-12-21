@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why do we tell actors to âbreak a leg?â Because every play has a cast.
+> When is a door not a door? When it's ajar.
 
 <!-- END -->
 
