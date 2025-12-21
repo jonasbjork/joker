@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the shore? Nothing, it just waved.
+> How do locomotives know where they're going? Lots of training
 
 <!-- END -->
 
