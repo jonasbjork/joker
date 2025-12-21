@@ -5,7 +5,8 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
