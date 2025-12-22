@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
