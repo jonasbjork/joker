@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
