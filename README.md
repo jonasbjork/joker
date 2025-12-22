@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 <!-- END -->
 
