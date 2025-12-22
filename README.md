@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> What do you call two barracuda fish?  A Pairacuda!
 
 <!-- END -->
 
