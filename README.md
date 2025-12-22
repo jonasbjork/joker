@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
