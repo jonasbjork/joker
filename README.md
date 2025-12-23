@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
