@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What happens when you anger a brain surgeon? They will give you a piece of your mind.
+> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
 
 <!-- END -->
 
