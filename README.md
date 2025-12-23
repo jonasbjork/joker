@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+> Did you hear the news? FedEx and UPS are merging. Theyâre going to go by the name Fed-Up from now on.
 
 <!-- END -->
 
