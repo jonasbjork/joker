@@ -5,7 +5,8 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
