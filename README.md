@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
