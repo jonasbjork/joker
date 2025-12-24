@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+> What's blue and not very heavy?  Light blue.
 
 <!-- END -->
 
