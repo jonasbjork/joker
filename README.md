@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
