@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
