@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
