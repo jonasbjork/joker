@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
