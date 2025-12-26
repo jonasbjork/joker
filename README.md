@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
