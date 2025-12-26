@@ -5,8 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> Where do hamburgers go to dance? The meat-ball.
 
 <!-- END -->
 
