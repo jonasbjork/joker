@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
