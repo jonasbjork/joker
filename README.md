@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dinosaur loves to sleep? A stega-snore-us.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
