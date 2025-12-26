@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 <!-- END -->
 
