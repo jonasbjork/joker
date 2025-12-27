@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> I used to be a banker, but I lost interest.
 
 <!-- END -->
 
