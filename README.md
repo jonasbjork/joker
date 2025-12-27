@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why do nurses carry around red crayons? Sometimes they need to draw blood.
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
