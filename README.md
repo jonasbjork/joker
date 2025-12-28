@@ -5,9 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
