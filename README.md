@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> Why is it so windy inside an arena? All those fans.
 
 <!-- END -->
 
