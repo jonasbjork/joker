@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
