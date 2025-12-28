@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
