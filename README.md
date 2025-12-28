@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
