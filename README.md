@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Why are fish so smart? Because they live in schools!
 
 <!-- END -->
 
