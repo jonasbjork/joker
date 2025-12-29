@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
