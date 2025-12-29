@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a pig and a pineapple? A porky pine
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
