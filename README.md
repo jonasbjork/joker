@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
