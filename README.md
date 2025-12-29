@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> How does the moon cut his hair? Eclipse it.
 
 <!-- END -->
 
