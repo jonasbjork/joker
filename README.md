@@ -5,8 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
