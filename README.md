@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
+> Yesterday, I accidentally swallowed some food coloring. The doctor says Iâm okay, but I feel like Iâve dyed a little inside.
 
 <!-- END -->
 
