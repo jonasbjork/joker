@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
