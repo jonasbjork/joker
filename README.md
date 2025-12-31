@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+> I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 
 <!-- END -->
 
