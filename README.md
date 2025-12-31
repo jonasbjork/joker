@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
