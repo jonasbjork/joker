@@ -5,7 +5,11 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> A panda walks into a bar and says to the bartender âIâll have a Scotch and . . . . . . . . . . . . . . Coke thank youâ. 
+
+âSure thingâ the bartender replies and asks âbut whatâs with the big pause?â 
+
+The panda holds up his hands and says âI was born with themâ
 
 <!-- END -->
 
