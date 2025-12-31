@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
