@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
