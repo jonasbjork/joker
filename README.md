@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 <!-- END -->
 
