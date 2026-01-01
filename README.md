@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> So a duck walks into a pharmacy and says âGive me some chap-stickâ¦ and put it on my billâ
+> How do the trees get on the internet? They log on.
 
 <!-- END -->
 
