@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> What's black and white and read all over? The newspaper.
 
 <!-- END -->
 
