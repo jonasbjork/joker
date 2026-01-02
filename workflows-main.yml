@@ -1,0 +1,21 @@
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  joke:
+    name: Tell me a joke
+    runs-on: ubuntu-22.04
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run joker.py
+        run: python joker.py
+
+      - name: Add README.md and push
+        uses: actions4git/add-commit-push@v1.0.0
+        
