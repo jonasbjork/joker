@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> Two muffins were sitting in an oven, and the first looks over to the second, and says, âman, itâs really hot in hereâ. The second looks over at the first with a surprised look, and answers, âWHOA, a talking muffin!â
 
 <!-- END -->
 
