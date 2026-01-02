@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
