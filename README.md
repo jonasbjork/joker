@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
