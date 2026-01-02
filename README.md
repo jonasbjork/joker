@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> What has a bed that you canât sleep in? A river.
 
 <!-- END -->
 
